@@ -6,7 +6,7 @@ meu nome é Kelvyn Stephan
 
 -estou me desenvolvendo na linguegem JavaScript
 
--utilizo esse espaço para minha organização ecompartilhamento dos meus projetos desenvolvidos
+-utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### entrem em contato comigo:
 
